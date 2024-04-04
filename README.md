@@ -1,0 +1,2 @@
+# docker_php_xdebug
+Docker上のPHPをVS CodeからXDebugする
